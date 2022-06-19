@@ -1,3 +1,7 @@
+# PROJETO CALCULADORA
+
+Projeto calculadora feito nas aulas do Curso de Desenvolvimento Web moderno do Leonardo Moura Leitão, utilizando create-react-app para o projeto.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
